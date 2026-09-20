@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node server.js",
+    "dev": "./scripts/dev.sh",
     "build": "./scripts/build.sh",
     "lint": "echo 'Headless C++ engine: no TS lint required.'"
   }
