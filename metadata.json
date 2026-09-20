@@ -1,0 +1,6 @@
+{
+  "name": "Hyper Editor Agent",
+  "description": "Advanced Headless Editor written in C++17/20 with direct FFmpeg C-APIs, FreeType2, HarfBuzz, and CMake",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
